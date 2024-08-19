@@ -1,0 +1,811 @@
+
+symbols.png
+size: 2043,2045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_boots_L_back
+  rotate: false
+  xy: 1271, 1382
+  size: 86, 39
+  orig: 86, 39
+  offset: 0, 0
+  index: -1
+h_boots_R
+  rotate: true
+  xy: 841, 1111
+  size: 448, 516
+  orig: 448, 517
+  offset: 0, 0
+  index: -1
+h_boots_shadow
+  rotate: false
+  xy: 1143, 57
+  size: 339, 296
+  orig: 339, 296
+  offset: 0, 0
+  index: -1
+h_bottle
+  rotate: 270
+  xy: 623, 5
+  size: 376, 516
+  orig: 378, 516
+  offset: 0, 0
+  index: -1
+h_bottle_shadow
+  rotate: false
+  xy: 1524, 790
+  size: 296, 302
+  orig: 296, 302
+  offset: 0, 0
+  index: -1
+h_bottle_top
+  rotate: false
+  xy: 318, 1019
+  size: 164, 108
+  orig: 166, 111
+  offset: 1, 1
+  index: -1
+h_jersey
+  rotate: false
+  xy: 4, 1470
+  size: 513, 571
+  orig: 514, 571
+  offset: 1, 0
+  index: -1
+h_jersey_btm_back
+  rotate: true
+  xy: 1963, 1456
+  size: 351, 75
+  orig: 353, 75
+  offset: 0, 0
+  index: -1
+h_jersey_collar_back
+  rotate: false
+  xy: 1010, 1130
+  size: 157, 71
+  orig: 169, 71
+  offset: 12, 0
+  index: -1
+h_jersey_shadow
+  rotate: true
+  xy: 797, 775
+  size: 360, 331
+  orig: 360, 331
+  offset: 0, 0
+  index: -1
+h_soccer
+  rotate: false
+  xy: 41, 611
+  size: 444, 444
+  orig: 444, 444
+  offset: 0, 0
+  index: -1
+h_trophy
+  rotate: true
+  xy: 4, 1053
+  size: 453, 511
+  orig: 453, 512
+  offset: 0, 1
+  index: -1
+h_trophy_base
+  rotate: false
+  xy: 838, 1942
+  size: 271, 100
+  orig: 273, 104
+  offset: 1, 2
+  index: -1
+h_trophy_shadow
+  rotate: true
+  xy: 497, 1684
+  size: 357, 337
+  orig: 357, 337
+  offset: 0, 0
+  index: -1
+h_whistle_ring_L
+  rotate: false
+  xy: 237, 1493
+  size: 63, 30
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+h_whistle_ring_R
+  rotate: false
+  xy: 841, 1350
+  size: 83, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+h_whistle_side_L
+  rotate: false
+  xy: 902, 12
+  size: 106, 84
+  orig: 109, 85
+  offset: 3, 1
+  index: -1
+h_whistle_top
+  rotate: false
+  xy: 755, 306
+  size: 122, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_01
+  rotate: false
+  xy: 1089, 1493
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_04
+  rotate: true
+  xy: 1349, 458
+  size: 313, 310
+  orig: 313, 310
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_05
+  rotate: true
+  xy: 1439, 1425
+  size: 325, 289
+  orig: 325, 289
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_06
+  rotate: true
+  xy: 1362, 1096
+  size: 325, 291
+  orig: 325, 291
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_08
+  rotate: false
+  xy: 1166, 1823
+  size: 258, 218
+  orig: 258, 218
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_12
+  rotate: false
+  xy: 1018, 17
+  size: 118, 93
+  orig: 118, 93
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_13
+  rotate: false
+  xy: 4, 626
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_14
+  rotate: false
+  xy: 88, 2017
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_03
+  rotate: true
+  xy: 4, 48
+  size: 189, 374
+  orig: 189, 374
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_04
+  rotate: false
+  xy: 1824, 820
+  size: 211, 377
+  orig: 211, 377
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_05
+  rotate: false
+  xy: 1732, 1418
+  size: 227, 380
+  orig: 227, 380
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_06
+  rotate: false
+  xy: 1728, 407
+  size: 227, 379
+  orig: 227, 379
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_07
+  rotate: true
+  xy: 1657, 1201
+  size: 213, 378
+  orig: 213, 378
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_08
+  rotate: false
+  xy: 4, 1810
+  size: 122, 189
+  orig: 122, 189
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_09
+  rotate: true
+  xy: 507, 1578
+  size: 102, 278
+  orig: 102, 278
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_10
+  rotate: false
+  xy: 1663, 507
+  size: 60, 279
+  orig: 60, 279
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_11
+  rotate: false
+  xy: 1959, 562
+  size: 53, 254
+  orig: 53, 254
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_12
+  rotate: false
+  xy: 1964, 370
+  size: 49, 188
+  orig: 49, 188
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_13
+  rotate: false
+  xy: 130, 1777
+  size: 45, 86
+  orig: 45, 86
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_03
+  rotate: false
+  xy: 1439, 1802
+  size: 362, 239
+  orig: 362, 239
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_04
+  rotate: true
+  xy: 1486, 73
+  size: 381, 238
+  orig: 381, 238
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_05
+  rotate: true
+  xy: 1166, 1425
+  size: 394, 269
+  orig: 394, 269
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_06
+  rotate: true
+  xy: 838, 1563
+  size: 361, 324
+  orig: 361, 324
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_07
+  rotate: false
+  xy: 4, 241
+  size: 387, 366
+  orig: 387, 366
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_08
+  rotate: true
+  xy: 395, 241
+  size: 385, 356
+  orig: 385, 356
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_09
+  rotate: true
+  xy: 520, 1180
+  size: 379, 317
+  orig: 379, 317
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_10
+  rotate: false
+  xy: 382, 54
+  size: 230, 183
+  orig: 230, 183
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_13
+  rotate: false
+  xy: 82, 1510
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_12
+  rotate: true
+  xy: 481, 630
+  size: 135, 210
+  orig: 135, 210
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_13
+  rotate: true
+  xy: 1657, 1101
+  size: 96, 155
+  orig: 96, 155
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_14
+  rotate: false
+  xy: 425, 1127
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_01
+  rotate: false
+  xy: 4, 987
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_03
+  rotate: false
+  xy: 1805, 1811
+  size: 200, 230
+  orig: 200, 230
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_08
+  rotate: false
+  xy: 1088, 357
+  size: 257, 414
+  orig: 257, 414
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_09
+  rotate: false
+  xy: 489, 775
+  size: 304, 401
+  orig: 304, 401
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_10
+  rotate: false
+  xy: 755, 384
+  size: 310, 387
+  orig: 310, 387
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_11
+  rotate: true
+  xy: 1132, 775
+  size: 273, 388
+  orig: 273, 388
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_12
+  rotate: false
+  xy: 1728, 38
+  size: 232, 365
+  orig: 232, 365
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_14
+  rotate: false
+  xy: 59, 2012
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_01
+  rotate: false
+  xy: 1132, 1070
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_02
+  rotate: false
+  xy: 402, 1392
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_03
+  rotate: false
+  xy: 1349, 359
+  size: 124, 95
+  orig: 124, 95
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_08
+  rotate: false
+  xy: 841, 1140
+  size: 165, 111
+  orig: 165, 111
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_13
+  rotate: true
+  xy: 4, 1470
+  size: 143, 74
+  orig: 143, 74
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_14
+  rotate: false
+  xy: 4, 2008
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+
+symbols2.png
+size: 2048,1264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_boots_L
+  rotate: 180
+  xy: 1286, 556
+  size: 351, 273
+  orig: 353, 285
+  offset: 0, 2
+  index: -1
+h_boots_R_back
+  rotate: false
+  xy: 1919, 516
+  size: 125, 125
+  orig: 126, 125
+  offset: 1, 0
+  index: -1
+h_bottle_strap
+  rotate: 270
+  xy: 1207, 227
+  size: 141, 426
+  orig: 141, 426
+  offset: 0, 0
+  index: -1
+h_bottle_strap_2
+  rotate: true
+  xy: 852, 37
+  size: 114, 302
+  orig: 115, 303
+  offset: 0, 1
+  index: -1
+h_bottle_strap_3
+  rotate: 270
+  xy: 1397, 13
+  size: 163, 150
+  orig: 168, 152
+  offset: 3, 0
+  index: -1
+h_jersey_sleeve_R
+  rotate: 270
+  xy: 163, 176
+  size: 175, 182
+  orig: 176, 182
+  offset: 0, 0
+  index: -1
+h_soccer_shadow
+  rotate: false
+  xy: 1021, 684
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+h_trophy_handle_L
+  rotate: 270
+  xy: 1418, 73
+  size: 179, 333
+  orig: 182, 335
+  offset: 1, 2
+  index: -1
+h_trophy_handle_R
+  rotate: true
+  xy: 1711, 6
+  size: 171, 333
+  orig: 173, 334
+  offset: 1, 0
+  index: -1
+h_trophy_top
+  rotate: false
+  xy: 213, 75
+  size: 445, 97
+  orig: 445, 98
+  offset: 0, 0
+  index: -1
+h_whistle_shadow
+  rotate: false
+  xy: 4, 496
+  size: 274, 213
+  orig: 274, 213
+  offset: 0, 0
+  index: -1
+h_whistle_side_R
+  rotate: false
+  xy: 815, 259
+  size: 390, 270
+  orig: 390, 270
+  offset: 0, 0
+  index: -1
+h_whistle_side_inner
+  rotate: false
+  xy: 582, 45
+  size: 118, 109
+  orig: 119, 110
+  offset: 1, 0
+  index: -1
+h_whistle_side_top
+  rotate: false
+  xy: 1610, 415
+  size: 424, 309
+  orig: 424, 309
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_02
+  rotate: false
+  xy: 4, 78
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_03
+  rotate: false
+  xy: 514, 969
+  size: 259, 291
+  orig: 259, 291
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_07
+  rotate: true
+  xy: 1021, 968
+  size: 292, 255
+  orig: 292, 255
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_09
+  rotate: true
+  xy: 1880, 255
+  size: 156, 164
+  orig: 156, 164
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_10
+  rotate: false
+  xy: 810, 216
+  size: 151, 143
+  orig: 151, 143
+  offset: 0, 0
+  index: -1
+shine/h_boots_shine_11
+  rotate: false
+  xy: 1128, 133
+  size: 139, 122
+  orig: 139, 122
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_01
+  rotate: true
+  xy: 4, 355
+  size: 137, 340
+  orig: 137, 340
+  offset: 0, 0
+  index: -1
+shine/h_bottle_shine_02
+  rotate: false
+  xy: 818, 578
+  size: 164, 365
+  orig: 164, 365
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_01
+  rotate: false
+  xy: 348, 322
+  size: 231, 179
+  orig: 231, 179
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_02
+  rotate: false
+  xy: 514, 721
+  size: 300, 222
+  orig: 300, 222
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_11
+  rotate: false
+  xy: 4, 211
+  size: 161, 140
+  orig: 161, 140
+  offset: 0, 0
+  index: -1
+shine/h_jersey_shine_12
+  rotate: false
+  xy: 1775, 313
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_01
+  rotate: true
+  xy: 346, 211
+  size: 107, 169
+  orig: 107, 169
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_02
+  rotate: true
+  xy: 583, 311
+  size: 148, 223
+  orig: 148, 223
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_03
+  rotate: true
+  xy: 1263, 369
+  size: 183, 257
+  orig: 183, 257
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_04
+  rotate: true
+  xy: 302, 505
+  size: 212, 281
+  orig: 212, 281
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_05
+  rotate: true
+  xy: 1522, 728
+  size: 231, 300
+  orig: 231, 300
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_06
+  rotate: false
+  xy: 777, 947
+  size: 240, 313
+  orig: 240, 313
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_07
+  rotate: false
+  xy: 267, 942
+  size: 243, 318
+  orig: 243, 318
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_08
+  rotate: false
+  xy: 1280, 949
+  size: 238, 311
+  orig: 238, 311
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_09
+  rotate: true
+  xy: 4, 713
+  size: 225, 294
+  orig: 225, 294
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_10
+  rotate: true
+  xy: 986, 476
+  size: 204, 273
+  orig: 204, 273
+  offset: 0, 0
+  index: -1
+shine/h_soccer_shine_11
+  rotate: true
+  xy: 1524, 312
+  size: 172, 247
+  orig: 172, 247
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_02
+  rotate: false
+  xy: 302, 755
+  size: 154, 183
+  orig: 154, 183
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_04
+  rotate: false
+  xy: 587, 463
+  size: 224, 254
+  orig: 224, 254
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_05
+  rotate: false
+  xy: 1765, 963
+  size: 235, 297
+  orig: 235, 297
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_06
+  rotate: false
+  xy: 1522, 963
+  size: 239, 297
+  orig: 239, 297
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_07
+  rotate: false
+  xy: 4, 949
+  size: 259, 311
+  orig: 259, 311
+  offset: 0, 0
+  index: -1
+shine/h_trophy_shine_13
+  rotate: false
+  xy: 1826, 644
+  size: 191, 315
+  orig: 191, 315
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_04
+  rotate: false
+  xy: 1271, 131
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_05
+  rotate: false
+  xy: 704, 100
+  size: 144, 112
+  orig: 144, 112
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_06
+  rotate: false
+  xy: 1805, 138
+  size: 147, 113
+  orig: 147, 113
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_07
+  rotate: false
+  xy: 965, 145
+  size: 159, 110
+  orig: 159, 110
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_09
+  rotate: false
+  xy: 1636, 199
+  size: 165, 109
+  orig: 165, 109
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_10
+  rotate: false
+  xy: 1286, 837
+  size: 177, 108
+  orig: 177, 108
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_11
+  rotate: false
+  xy: 519, 209
+  size: 181, 98
+  orig: 181, 98
+  offset: 0, 0
+  index: -1
+shine/h_whistle_shine_12
+  rotate: false
+  xy: 351, 115
+  size: 167, 90
+  orig: 167, 90
+  offset: 0, 0
+  index: -1
+
